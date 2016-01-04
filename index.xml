@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>飞扬研发</title>
+    <link>http://fyyflab.github.io/</link>
+    <description>Recent content on 飞扬研发</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://fyyflab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
