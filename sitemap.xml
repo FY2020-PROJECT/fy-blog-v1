@@ -3,7 +3,13 @@
   
   <url>
     <loc>http://fyyflab.github.io/</loc>
+    <lastmod>2016-01-04T23:03:54+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://fyyflab.github.io/posts/first-post/</loc>
+    <lastmod>2016-01-04T23:03:54+08:00</lastmod>
   </url>
   
 </urlset>
