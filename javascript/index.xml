@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javascripts on 飞扬研发</title>
+    <link>http://fyyflab.github.io/javascript/</link>
+    <description>Recent content in Javascripts on 飞扬研发</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Jan 2016 02:07:22 +0800</lastBuildDate>
+    <atom:link href="http://fyyflab.github.io/javascript/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>test</title>
+      <link>http://fyyflab.github.io/javascript/test/</link>
+      <pubDate>Tue, 05 Jan 2016 02:07:22 +0800</pubDate>
+      
+      <guid>http://fyyflab.github.io/javascript/test/</guid>
+      <description>&lt;p&gt;test
+    test
+    var&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
