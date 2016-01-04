@@ -19,5 +19,25 @@
 </description>
     </item>
     
+    <item>
+      <title>first post</title>
+      <link>http://fyyflab.github.io/posts/xxx/</link>
+      <pubDate>Mon, 04 Jan 2016 21:52:38 +0800</pubDate>
+      
+      <guid>http://fyyflab.github.io/posts/xxx/</guid>
+      <description>
+
+&lt;h2 id=&#34;head:68e8783980d9b8def99e77549e78041b&#34;&gt;head&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ddd&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;fdsafa&lt;/p&gt;
+
+&lt;p&gt;echo &amp;lsquo;hello&amp;rsquo;;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
